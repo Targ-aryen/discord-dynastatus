@@ -1,6 +1,8 @@
 # discord-dynastatus
 dynamic status for discord
 
+REQUIRED NODE
+
 Unzip using 7zip or WinRAR
 
 After set-up procedures
